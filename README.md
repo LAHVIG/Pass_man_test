@@ -1,3 +1,2 @@
-# EpicPassman-
-Weird passwordmanager, just because :) \
-Just run the bat file to run main.py 
+# Password Manager run locally
+Don't actually use this. It's really insecure
