@@ -1,2 +1,2 @@
 # Password Manager run locally
-Don't actually use this. It's really insecure
+Don't actually use this. It's really insecure. Like Lahvig.
